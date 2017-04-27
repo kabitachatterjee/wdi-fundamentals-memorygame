@@ -87,3 +87,12 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+#score-board {
+	color:#F15B31 ;
+	font-weight: 600;
+	font-size: 28px;
+}
+button{
+	background-color: #F15B31;
+	font-size: large;
+}
